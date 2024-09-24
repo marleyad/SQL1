@@ -1,6 +1,6 @@
 -- Query 0
 
-SELECT *
+SELECT * 
 FROM analytics;
 
 -- 1.
