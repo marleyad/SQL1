@@ -90,7 +90,7 @@ WHERE last_updated =
 
 -- 12. Find the most expensive app (the query is very similar to #11).
 -- Option 1: with a subquery
-
+ 
 SELECT *
 FROM analytics
 WHERE price =
