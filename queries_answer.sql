@@ -1,4 +1,4 @@
- -- Query 0 
+ -- Query 0
 
 SELECT * 
 FROM analytics;
