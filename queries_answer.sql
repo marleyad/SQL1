@@ -4,7 +4,7 @@ SELECT *
 FROM analytics;
 
 -- 1.
-
+ 
 SELECT *
 FROM analytics
 WHERE id = 1880;
